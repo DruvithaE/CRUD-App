@@ -5,7 +5,7 @@ Command in client terminanl:
            npm start
 
 
-Command in client terminanl:
+Command in server terminanl:
            
            npm start
       
